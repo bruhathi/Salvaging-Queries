@@ -1,0 +1,38 @@
+# Begin query 03
+../../results/uniform/Exact_03.log,../../results/uniform/SdW*Redundancy_03-*log
+../../results/uniform/Exact_03.log,../../results/uniform/WD_03-*log
+../../results/uniform/Exact_Selectivity01_03.log,../../results/uniform/SdW*Redundancy_Selectivity01_03-*log
+../../results/uniform/Exact_Selectivity01_03.log,../../results/uniform/WD*_Selectivity01_03-*log
+../../results/uniform/Exact_Selectivity02_03.log,../../results/uniform/SdW*Redundancy_Selectivity02_03-*log
+../../results/uniform/Exact_Selectivity02_03.log,../../results/uniform/WD*_Selectivity02_03-*log
+../../results/uniform/Exact_Selectivity05_03.log,../../results/uniform/SdW*Redundancy_Selectivity05_03-*log
+../../results/uniform/Exact_Selectivity05_03.log,../../results/uniform/WD*_Selectivity05_03-*log
+../../results/uniform/Exact_Selectivity10_03.log,../../results/uniform/SdW*Redundancy_Selectivity10_03-*log
+../../results/uniform/Exact_Selectivity10_03.log,../../results/uniform/WD*_Selectivity10_03-*log
+../../results/uniform/Exact_Selectivity20_03.log,../../results/uniform/SdW*Redundancy_Selectivity20_03-*log
+../../results/uniform/Exact_Selectivity20_03.log,../../results/uniform/WD*_Selectivity20_03-*log
+../../results/uniform/Exact_Selectivity50_03.log,../../results/uniform/SdW*Redundancy_Selectivity50_03-*log
+../../results/uniform/Exact_Selectivity50_03.log,../../results/uniform/WD*_Selectivity50_03-*log
+# Begin query 06
+../../results/uniform/Exact_06.log,../../results/uniform/SdW*Redundancy_06-*log
+../../results/uniform/Exact_06.log,../../results/uniform/WD_06-*log
+../../results/uniform/Exact_Selectivity01_06.log,../../results/uniform/SdW*Redundancy_Selectivity01_06-*log
+../../results/uniform/Exact_Selectivity01_06.log,../../results/uniform/WD*_Selectivity01_06-*log
+../../results/uniform/Exact_Selectivity02_06.log,../../results/uniform/SdW*Redundancy_Selectivity02_06-*log
+../../results/uniform/Exact_Selectivity02_06.log,../../results/uniform/WD*_Selectivity02_06-*log
+../../results/uniform/Exact_Selectivity05_06.log,../../results/uniform/SdW*Redundancy_Selectivity05_06-*log
+../../results/uniform/Exact_Selectivity05_06.log,../../results/uniform/WD*_Selectivity05_06-*log
+../../results/uniform/Exact_Selectivity10_06.log,../../results/uniform/SdW*Redundancy_Selectivity10_06-*log
+../../results/uniform/Exact_Selectivity10_06.log,../../results/uniform/WD*_Selectivity10_06-*log
+../../results/uniform/Exact_Selectivity20_06.log,../../results/uniform/SdW*Redundancy_Selectivity20_06-*log
+../../results/uniform/Exact_Selectivity20_06.log,../../results/uniform/WD*_Selectivity20_06-*log
+../../results/uniform/Exact_Selectivity50_06.log,../../results/uniform/SdW*Redundancy_Selectivity50_06-*log
+../../results/uniform/Exact_Selectivity50_06.log,../../results/uniform/WD*_Selectivity50_06-*log
+# Begin query 09
+../../results/uniform/Exact_09.log,../../results/uniform/SdW*Redundancy_09-*log
+../../results/uniform/Exact_09.log,../../results/uniform/WD_09-*log
+# Begin query 17
+../../results/uniform/Exact_17.log,../../results/uniform/WD_17-*log
+# Begin query 19
+../../results/uniform/Exact_19.log,../../results/uniform/SdW*Redundancy_19-*log
+../../results/uniform/Exact_19.log,../../results/uniform/WD_19-*log

@@ -1,0 +1,24 @@
+# Begin query 03
+../../results/skew/Exact_03.log,../../results/skew/SdW*Redundancy_03-*log
+../../results/skew/Exact_03.log,../../results/skew/WD_03-*log
+../../results/skew/Exact_Selectivity01_03.log,../../results/skew/SdW*Redundancy_Selectivity01_03-*log
+../../results/skew/Exact_Selectivity01_03.log,../../results/skew/WD*_Selectivity01_03-*log
+../../results/skew/Exact_Selectivity20_03.log,../../results/skew/SdW*Redundancy_Selectivity20_03-*log
+../../results/skew/Exact_Selectivity20_03.log,../../results/skew/WD*_Selectivity20_03-*log
+../../results/skew/Exact_Selectivity80_03.log,../../results/skew/SdW*Redundancy_Selectivity80_03-*log
+../../results/skew/Exact_Selectivity80_03.log,../../results/skew/WD*_Selectivity80_03-*log
+# Begin query 06
+../../results/skew/Exact_06.log,../../results/skew/SdW*Redundancy_06-*log
+../../results/skew/Exact_06.log,../../results/skew/WD_06-*log
+../../results/skew/Exact_Selectivity01_06.log,../../results/skew/SdW*Redundancy_Selectivity01_06-*log
+../../results/skew/Exact_Selectivity01_06.log,../../results/skew/WD*_Selectivity01_06-*log
+../../results/skew/Exact_Selectivity20_06.log,../../results/skew/SdW*Redundancy_Selectivity20_06-*log
+../../results/skew/Exact_Selectivity20_06.log,../../results/skew/WD*_Selectivity20_06-*log
+../../results/skew/Exact_Selectivity80_06.log,../../results/skew/SdW*Redundancy_Selectivity80_06-*log
+../../results/skew/Exact_Selectivity80_06.log,../../results/skew/WD*_Selectivity80_06-*log
+# Begin query 09
+../../results/skew/Exact_09.log,../../results/skew/SdW*Redundancy_09-*log
+../../results/skew/Exact_09.log,../../results/skew/WD_09-*log
+# Begin query 19
+../../results/skew/Exact_19.log,../../results/skew/SdW*Redundancy_19-*log
+../../results/skew/Exact_19.log,../../results/skew/WD_19-*log

@@ -1,0 +1,28 @@
+Loading settings from exact-skew.cfg
+QS=/fastdisk/quickstep/build/quickstep_cli_shell
+
+QS_ARGS_BASE="-worker_affinities="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39" -display_timing=false"
+
+QS_ARGS_NUMA_LOAD=""
+
+QS_ARGS_NUMA_RUN="-preload_buffer_pool=false"
+
+CREATE_SQL="create.sql"
+
+LOAD_DATA=false
+
+TPCH_DATA_PATH=/slowdisk/raw-data/tpch-sf100
+
+QS_STORAGE=/fastdisk/qs-data/tpch-sf100-skew
+
+QUERIES="Exact_09"
+Running a subset of queries with length 1
+/fastdisk/quickstep/build/quickstep_cli_shell -worker_affinities=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39 -display_timing=false -preload_buffer_pool=false -storage_path=/fastdisk/qs-data/tpch-sf100-skew
+Query Exact_09.sql
+(1 row)
+Starting Quickstep with 40 worker thread(s) and a 125.75 GB buffer pool.
++------------------------+
+|sum_profit              |
++------------------------+
+|      217055596239.95557|
++------------------------+
